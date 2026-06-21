@@ -5,7 +5,7 @@ Author: Vesselin C. Noninski
 
 Zenodo DOI:
 
-DOI: 10.5281/zenodo.20780519
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20780519.svg)](https://doi.org/10.5281/zenodo.20780519)
 
 Contents:
 - PDF
