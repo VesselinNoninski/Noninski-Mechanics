@@ -1,0 +1,79 @@
+Subject
+
+Structural discovery and audit of scientific theoryhood, Double
+Governance, Noninski Mechanics, Lorentz Transformations, Quantum
+Mechanics, NRFP, NCCA, NHYYOR, and the role of Large Language Models
+under printed-form symbolic validity and structural audit.
+
+Keywords
+
+Noninski Mechanics; Double Governance; Structural Invalidity; NRFP; NCCA; NHYYOR; Printed-Form Audit; Lorentz Transformations;Quantum  Mechanics; Structural Theoryhood; Scientific Reproducibility; Galilean Transformations; Symbolic Governance; Maxwell Electrodynamics; Virial Mechanics; Structural Validity; Theoryhood Audit; Scientific Foundations; Governing Commitments; Atomic Primitives; Symbolic Coexistence; Large Language Models
+
+NONINSKI MECHANICS
+Version 1.0
+Canonical Archival Release
+
+Author
+
+Vesselin C. Noninski
+
+Release Date
+
+21 June 2026
+
+Archival Identity
+
+ORCID:
+https://orcid.org/0000-0002-4455-6209
+
+Description
+
+This archive contains the canonical Version 1.0 release of
+"Noninski Mechanics" together with its complete self-contained
+LaTeX source corpus.
+
+The work develops the NRFP / NCCA / NHYYOR framework for
+printed-form structural audit of scientific theoryhood and introduces
+Noninski Mechanics as a structurally valid governing framework
+derived through virial generative structure.
+
+The work presents structural audits of Newtonian Mechanics,
+Maxwell Electrodynamics, the Lorentz Transformations, Relativity,
+Quantum Mechanics, and related theoretical frameworks through the
+criterion of primitive-level Double Governance.
+
+The work additionally explores the role of Large Language Models as
+both auditing and generative symbolic architectures capable of
+recovering structurally valid and structurally invalid governing
+relations through printed-form symbolic analysis.
+
+Particular emphasis is placed upon reproducible audit procedures,
+minimal symbolic corpora, structural validity, structural invalidity,
+and the emergence of governing relations from generative symbolic
+frameworks.
+
+Contents
+
+* Canonical PDF
+* Full LaTeX source corpus
+* Version information
+* Cover image
+
+Compilation
+
+Primary engine: XeLaTeX
+
+Archival Notice
+
+This release is intended as a permanent scholarly archival object.
+
+The PDF and LaTeX source corpus together constitute the canonical
+Version 1.0 release.
+
+The LaTeX source corpus forms part of the printed-form structure of
+the work itself and is included to ensure transparency,
+reproducibility, and long-term archival preservation.
+
+DOI
+
+DOI: 10.5281/zenodo.20780519
